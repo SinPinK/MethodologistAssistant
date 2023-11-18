@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/methodologist_assistant/frontend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/methodologist_assistant/frontend/horizon-tailwind-react" vcs="Git" />
   </component>
 </project>
